@@ -1,0 +1,44 @@
+{
+    "appKeys": {
+        "KEY_CONDITIONS": 1,
+        "KEY_TEMPERATURE": 0
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "lfiscal@gmail.com",
+    "longName": "MyFont + Weather",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Unknown.png",
+                "menuIcon": true,
+                "name": "menupic",
+                "type": "png"
+            },
+            {
+                "file": "images/BlackBackground.png",
+                "name": "blackbackground",
+                "type": "png"
+            },
+            {
+                "file": "fonts/Sharpie_2.ttf",
+                "name": "Sharpie_20",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Sharpie_2.ttf",
+                "name": "Sharpie_64",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "MyFont + Weather",
+    "uuid": "4493862b-7c38-407c-82a6-c2b41ab55ce7",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
